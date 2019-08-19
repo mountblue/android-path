@@ -14,7 +14,7 @@
 
 [Version Control with Git - Udacity Video Course](https://in.udacity.com/course/version-control-with-git--ud123)
 
-[GitHub & Collaboration - Udacity Video Course](https://in.udacity.com/course/github-collaboration--ud456)
+[GitHub & Collaboration - Udacity Video Course](https://classroom.udacity.com/courses/ud456)
 
 [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
 
